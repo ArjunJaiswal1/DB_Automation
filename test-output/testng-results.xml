@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-16T12:52:25 NPT" name="Default suite" finished-at="2022-11-16T12:52:26 NPT" duration-ms="1000">
+    <groups>
+    </groups>
+    <test started-at="2022-11-16T12:52:25 NPT" name="Default test" finished-at="2022-11-16T12:52:26 NPT" duration-ms="1000">
+      <class name="com.db.automation.test.DB_test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.db.automation.test.DB_test@7c24b813]" started-at="2022-11-16T12:52:25 NPT" name="setUp" finished-at="2022-11-16T12:52:25 NPT" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteTaleData()[pri:0, instance:com.db.automation.test.DB_test@7c24b813]" started-at="2022-11-16T12:52:25 NPT" name="deleteTaleData" finished-at="2022-11-16T12:52:25 NPT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTaleData -->
+        <test-method signature="getTableData()[pri:0, instance:com.db.automation.test.DB_test@7c24b813]" started-at="2022-11-16T12:52:25 NPT" name="getTableData" finished-at="2022-11-16T12:52:25 NPT" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTableData -->
+        <test-method signature="insertData()[pri:0, instance:com.db.automation.test.DB_test@7c24b813]" started-at="2022-11-16T12:52:25 NPT" name="insertData" finished-at="2022-11-16T12:52:26 NPT" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insertData -->
+        <test-method signature="updateTableData()[pri:0, instance:com.db.automation.test.DB_test@7c24b813]" started-at="2022-11-16T12:52:26 NPT" name="updateTableData" finished-at="2022-11-16T12:52:26 NPT" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTableData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.db.automation.test.DB_test@7c24b813]" started-at="2022-11-16T12:52:26 NPT" name="tearDown" finished-at="2022-11-16T12:52:26 NPT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.db.automation.test.DB_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
